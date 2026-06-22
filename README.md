@@ -64,6 +64,8 @@ streamlit run app.py
 
 브라우저에서 `http://localhost:8501` 접속하시면 됩니다.
 
+**배포 URL**는 https://health-check-service.streamlit.app 입니다.
+
 ---
 
 ## 📁 프로젝트 구조
