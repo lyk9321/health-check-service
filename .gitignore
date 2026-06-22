@@ -1,0 +1,22 @@
+# 원본 건강검진 데이터 (용량 큰 파일 — 원본 데이터 GitHub 업로드 금지)
+data/raw/2024_국민건강보험공단_건강검진정보.CSV
+
+# 환경 설정
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+*.pyc
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db

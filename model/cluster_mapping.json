@@ -1,0 +1,26 @@
+{
+  "basic": {
+    "name": "기본관리형",
+    "color": "#2ECC71"
+  },
+  "weight": {
+    "name": "체중관리형",
+    "color": "#F39C12"
+  },
+  "blood_pressure": {
+    "name": "혈압관리형",
+    "color": "#E74C3C"
+  },
+  "blood_sugar": {
+    "name": "혈당관리형",
+    "color": "#E67E22"
+  },
+  "metabolic": {
+    "name": "대사복합관리형",
+    "color": "#C0392B"
+  },
+  "lifestyle": {
+    "name": "생활습관관리형",
+    "color": "#9B59B6"
+  }
+}
