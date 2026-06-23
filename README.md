@@ -53,19 +53,18 @@ Rule Based 라벨링 → RF 분류 구조에서의 정확도.
 - GitHub: github.com/lyk9321/health-check-service
 
 ## 서비스 스크린샷
+
+### 서비스 안내 화면    
 <img width="1105" height="1233" alt="image" src="https://github.com/user-attachments/assets/0b0ab317-3187-44f4-b1a5-e4f7d343a838" />  
 
-서비스 안내 화면  
 
-
+### 대상자 건강 정보 입력 화면  
 <img width="891" height="1168" alt="image" src="https://github.com/user-attachments/assets/18a48c2e-440c-4547-8e99-68bc141245af" />  
 <img width="903" height="1299" alt="image" src="https://github.com/user-attachments/assets/5efec7db-b706-4f1c-8a0e-b40ba3c8023d" />  
 
-대상자 건강 정보 입력 화면  
 
-
+ ### 자가 점검 결과 화면  
 <img width="877" height="1330" alt="image" src="https://github.com/user-attachments/assets/48bcc762-a75c-49fc-892a-9c50e810f600" />  
 <img width="876" height="1067" alt="image" src="https://github.com/user-attachments/assets/1c37d29a-b215-4292-abdd-2411077869c1" />  
 <img width="888" height="1041" alt="image" src="https://github.com/user-attachments/assets/2556f1b6-50b5-4840-bcdb-682e09ccf4c0" />  
 
-자가 점검 결과 화면
